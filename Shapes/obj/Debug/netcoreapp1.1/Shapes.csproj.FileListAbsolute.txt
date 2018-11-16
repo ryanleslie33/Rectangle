@@ -1,0 +1,3 @@
+C:\Users\ryan leslie\Desktop\Shapes.Solution\Shapes\bin\Debug\netcoreapp1.1\Shapes.deps.json
+C:\Users\ryan leslie\Desktop\Shapes.Solution\Shapes\obj\Debug\netcoreapp1.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ryan leslie\Desktop\Shapes.Solution\Shapes\obj\Debug\netcoreapp1.1\Shapes.AssemblyInfo.cs
